@@ -18,19 +18,19 @@ f = a + b
 g = a - b
 h = a * b
 i = a / b
-#print(f)
-#print(g)
-#print(h)
-#print(i)
+print(f)
+print(g)
+print(h)
+print(i)
 
 " 제곱연산자: ** "
 j = a ** b
-#print(j)
+print(j)
 
 " 나머지연산자: %"
 k = a % b
-#print(k)
+print(k)
 
 " 몫연산자: //"
 l = a // b
-#print(l)
+print(l)

@@ -1,0 +1,1 @@
+print("Herzlich willkommen zur Vorlesung, Verarbeitung deutscher Sprachdaten.")
